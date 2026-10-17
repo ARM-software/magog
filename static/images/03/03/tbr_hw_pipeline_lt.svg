@@ -1,0 +1,264 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="680"
+   height="165"
+   viewBox="0 0 179.91667 43.656252"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="tbr_hw_pipeline_lt.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <style
+     id="style10">.graph_plot_area {   }
+.graph_line1 {   }
+.graph_axis {   }
+.graph_axis_labels {   }
+</style>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="2.0000001"
+     inkscape:cx="265.24999"
+     inkscape:cy="149.5"
+     inkscape:window-width="2752"
+     inkscape:window-height="1401"
+     inkscape:window-x="306"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g14"
+     showguides="true">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="-15"
+       originy="-9.9710684"
+       spacingx="0.99999998"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14902"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+    <sodipodi:guide
+       position="15,24.454402"
+       orientation="1,0"
+       id="guide10"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="30,6.4544025"
+       orientation="0,-1"
+       id="guide11"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <radialGradient
+       cx="0"
+       cy="0"
+       r="4949931"
+       fy="-7.01827e-11"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="pad"
+       id="fill0"
+       gradientTransform="matrix(1.04987e-4,0,0,1.04987e-4,423,236.45152)">
+      <stop
+         offset="0"
+         stop-color="#A03900"
+         id="stop1"
+         style="stop-color:#b85c03;stop-opacity:1;" />
+      <stop
+         offset="0.5"
+         stop-color="#E65600"
+         id="stop2"
+         style="stop-color:#e67100;stop-opacity:1;" />
+      <stop
+         offset="1"
+         stop-color="#FF6800"
+         id="stop3"
+         style="stop-color:#ff8800;stop-opacity:1;" />
+    </radialGradient>
+    <clipPath
+       id="clip1">
+      <path
+         d="m 422.608,292.474 v 55.796 l 68.142,-12.401 -2,-43.395 z M 569.426,227.715 606.87,506.818 327.767,544.261 290.323,265.159 Z"
+         fill-rule="evenodd"
+         clip-rule="evenodd"
+         id="path3" />
+    </clipPath>
+    <clipPath
+       id="clip2">
+      <path
+         d="M 569.426,227.715 606.87,506.818 327.767,544.261 290.323,265.159 Z"
+         fill-rule="evenodd"
+         clip-rule="evenodd"
+         id="path4" />
+    </clipPath>
+    <clipPath
+       id="clip3">
+      <path
+         d="M 569.426,227.715 606.87,506.818 327.767,544.261 290.323,265.159 Z"
+         fill-rule="evenodd"
+         clip-rule="evenodd"
+         id="path5" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-15,-9.9710685)">
+    <g
+       transform="matrix(0.17244777,0,0,0.17244777,-8.5910217,-24.563637)"
+       id="g14">
+      <rect
+         style="fill:#009f93;fill-opacity:1;stroke:none;stroke-width:3.71853;stroke-linecap:round;stroke-linejoin:round"
+         id="rect2-1"
+         width="232.23747"
+         height="115.97711"
+         x="281.07794"
+         y="229.2576"
+         ry="17.396568" />
+      <text
+         xml:space="preserve"
+         style="font-size:22.5028px;line-height:1.1;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;letter-spacing:0.0613712px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.34915;stroke-linecap:round;stroke-linejoin:round"
+         x="397.1857"
+         y="280.23709"
+         id="text2"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5028px;line-height:1.1;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#ffffff;stroke-width:4.34914"
+           x="397.1857"
+           y="280.23709"
+           id="tspan1">Geometry</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5028px;line-height:1.1;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#ffffff;stroke-width:4.34914"
+           x="397.21637"
+           y="304.99017"
+           id="tspan3">processing</tspan></text>
+      <rect
+         style="fill:#2f7faf;fill-opacity:1;stroke:none;stroke-width:3.71853;stroke-linecap:round;stroke-linejoin:round"
+         id="rect2-1-8"
+         width="232.23747"
+         height="115.97711"
+         x="803.25824"
+         y="229.2576"
+         ry="17.396568" />
+      <text
+         xml:space="preserve"
+         style="font-size:22.5028px;line-height:1.1;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;letter-spacing:0.0613712px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.34915;stroke-linecap:round;stroke-linejoin:round"
+         x="919.36597"
+         y="280.10526"
+         id="text2-2"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5028px;line-height:1.1;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#ffffff;stroke-width:4.34914"
+           x="919.36597"
+           y="280.10526"
+           id="tspan1-4">Fragment</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5028px;line-height:1.1;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#ffffff;stroke-width:4.34914"
+           x="919.39667"
+           y="304.85834"
+           id="tspan3-5">processing</tspan></text>
+      <rect
+         style="fill:#d58d30;fill-opacity:1;stroke:none;stroke-width:2.27571;stroke-linecap:round;stroke-linejoin:round"
+         id="rect2-1-8-7-3-6-4-1"
+         width="173.96568"
+         height="57.98859"
+         x="571.71527"
+         y="374.39529"
+         ry="8.6982889" />
+      <text
+         xml:space="preserve"
+         style="font-size:18.4114px;line-height:1.1;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;letter-spacing:0.0613712px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.34915;stroke-linecap:round;stroke-linejoin:round"
+         x="658.3692"
+         y="380.11462"
+         id="text2-2-9-4-5-8-5"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.4114px;line-height:1.1;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Bold';fill:#ffffff;stroke-width:4.34914"
+           x="658.3692"
+           y="380.11462"
+           id="tspan4-4-1-0-6-2" /><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.4114px;line-height:1.1;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#ffffff;stroke-width:4.34914"
+           x="658.3692"
+           y="400.36716"
+           id="tspan4">Geometry phase</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.4114px;line-height:1.1;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#ffffff;stroke-width:4.34914"
+           x="658.3692"
+           y="420.61969"
+           id="tspan6">intermediate data</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.4114px;line-height:1.1;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#ffffff;stroke-width:4.34914"
+           x="658.3692"
+           y="440.87225"
+           id="tspan5" /></text>
+      <text
+         xml:space="preserve"
+         style="font-size:18.4114px;line-height:1.1;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;letter-spacing:0.0613712px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#606060;fill-opacity:1;stroke:none;stroke-width:4.34915;stroke-linecap:round;stroke-linejoin:round"
+         x="339.76096"
+         y="417.88675"
+         id="text2-4-1-1"><tspan
+           sodipodi:role="line"
+           id="tspan2-4-8-82"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.4114px;line-height:1.1;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#606060;stroke-width:4.34914"
+           x="339.76096"
+           y="417.88675">From</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.4114px;line-height:1.1;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#606060;stroke-width:4.34914"
+           x="339.79163"
+           y="438.13928"
+           id="tspan2">DRAM</tspan></text>
+      <path
+         id="path6"
+         style="fill:#6a6a6a;fill-opacity:1;stroke:none;stroke-width:1.79516;stroke-linecap:round;stroke-linejoin:round"
+         d="m 449.93813,362.79672 v 46.39102 h 92.78204 v 5.79851 l 17.39851,-11.59701 -17.39851,-11.59701 v 5.79851 h -81.18204 v -34.79402 z"
+         sodipodi:nodetypes="cccccccccc" />
+      <path
+         style="fill:#6a6a6a;fill-opacity:1;stroke:none;stroke-width:1.79516;stroke-linecap:round;stroke-linejoin:round"
+         d="m 339.76096,394.69131 h -5.79885 v -17.39657 h -5.79886 l 11.59771,-17.39657 11.59772,17.39657 h -5.79886 v 17.39657 z"
+         id="path6-1"
+         sodipodi:nodetypes="ccccccccc" />
+      <path
+         id="path6-4"
+         style="fill:#6a6a6a;fill-opacity:1;stroke:none;stroke-width:1.79516;stroke-linecap:round;stroke-linejoin:round"
+         d="m 757.27868,409.18845 h 110.17829 v -28.99429 h 5.79851 l -11.59701,-17.39851 -11.59701,17.39851 h 5.79851 l -7.2e-4,17.39658 h -98.58057 z"
+         sodipodi:nodetypes="cccccccccc" />
+      <text
+         xml:space="preserve"
+         style="font-size:18.4114px;line-height:1.1;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;letter-spacing:0.0613712px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#606060;fill-opacity:1;stroke:none;stroke-width:4.34915;stroke-linecap:round;stroke-linejoin:round"
+         x="977.63519"
+         y="420.78619"
+         id="text2-4-1-1-9"><tspan
+           sodipodi:role="line"
+           id="tspan2-4-8-82-5"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.4114px;line-height:1.1;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#606060;stroke-width:4.34914"
+           x="977.63519"
+           y="420.78619">To</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.4114px;line-height:1.1;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#606060;stroke-width:4.34914"
+           x="977.66589"
+           y="441.03873"
+           id="tspan2-4">DRAM</tspan></text>
+      <path
+         style="fill:#6a6a6a;fill-opacity:1;stroke:none;stroke-width:1.79516;stroke-linecap:round;stroke-linejoin:round"
+         d="m 977.63525,362.7976 h 5.79886 v 17.39656 h 5.79885 l -11.59771,17.39658 -11.59772,-17.39658 h 5.79887 V 362.7976 Z"
+         id="path6-1-3"
+         sodipodi:nodetypes="ccccccccc" />
+    </g>
+  </g>
+</svg>

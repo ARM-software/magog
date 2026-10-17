@@ -1,0 +1,15 @@
+# Editor
+/.vscode
+
+# Hugo output
+/public
+/resources
+/.hugo_build.lock
+
+# Build outputs
+/aspell_results.txt
+
+# Scratch files
+/source_materials
+/scratch
+

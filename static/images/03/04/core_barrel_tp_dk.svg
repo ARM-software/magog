@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="680"
+   height="122"
+   viewBox="0 0 179.91667 32.279171"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="core_barrel_tp_dk.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <style
+     id="style10">.graph_plot_area {   }
+.graph_line1 {   }
+.graph_axis {   }
+.graph_axis_labels {   }
+</style>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="8.0000004"
+     inkscape:cx="185.87499"
+     inkscape:cy="100.37499"
+     inkscape:window-width="2402"
+     inkscape:window-height="1401"
+     inkscape:window-x="551"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     showguides="false">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="-15"
+       originy="-9.9710684"
+       spacingx="0.99999998"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14902"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+    <sodipodi:guide
+       position="90,105.22818"
+       orientation="1,0"
+       id="guide1"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect3"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,1.0000022,0,1 @ F,0,0,1,0,0.99986101,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect2"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0.55742192,0,1 @ F,0,0,1,0,0.49687498,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,1.000009,0,1 @ F,0,0,1,0,0.95481001,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect2-8"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0.55742192,0,1 @ F,0,0,1,0,0.49687498,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-15,-9.9710685)">
+    <rect
+       style="opacity:1;fill:#00847a;stroke:none;stroke-width:2;stroke-linecap:round;stroke-miterlimit:3.9"
+       id="rect1"
+       width="20"
+       height="9.999999"
+       x="45"
+       y="29.999998"
+       ry="1.2" />
+    <rect
+       style="opacity:1;fill:#0870b8;stroke:none;stroke-width:2;stroke-linecap:round;stroke-miterlimit:3.9"
+       id="rect1-3"
+       width="20"
+       height="9.999999"
+       x="95"
+       y="29.999998"
+       ry="1.2" />
+    <rect
+       style="opacity:1;fill:#00847a;stroke:none;stroke-width:2;stroke-linecap:round;stroke-miterlimit:3.9"
+       id="rect1-3-7"
+       width="20"
+       height="9.999999"
+       x="145"
+       y="29.999998"
+       ry="1.2" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.1;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:start;letter-spacing:0.0105833px;writing-mode:lr-tb;direction:ltr;text-anchor:start;opacity:1;fill:#111111;stroke:none;stroke-width:2;stroke-linecap:round;stroke-miterlimit:3.9"
+       x="54.993111"
+       y="34.290512"
+       id="text6"><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;fill:#111111;stroke-width:2"
+         x="54.993111"
+         y="34.290512"
+         id="tspan1">Read</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;fill:#111111;stroke-width:2"
+         x="54.998402"
+         y="38.171059"
+         id="tspan2">Operands</tspan></text>
+    <rect
+       style="fill:#9e4c8a;stroke:none;stroke-width:2;stroke-linecap:round;stroke-miterlimit:3.9"
+       id="rect1-8"
+       width="20"
+       height="9.999999"
+       x="45"
+       y="14.999999"
+       ry="1.2" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:1.1;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:start;letter-spacing:0.0105833px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#111111;stroke:none;stroke-width:2;stroke-linecap:round;stroke-miterlimit:3.9"
+       x="54.848415"
+       y="19.344744"
+       id="text6-2"><tspan
+         sodipodi:role="line"
+         style="font-size:3.175px;text-align:center;text-anchor:middle;fill:#111111;stroke-width:2"
+         x="54.848415"
+         y="19.344744"
+         id="tspan1-4">Large</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:3.175px;text-align:center;text-anchor:middle;fill:#111111;stroke-width:2"
+         x="54.853706"
+         y="22.837244"
+         id="tspan2-5">Thread Pool</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.1;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:start;letter-spacing:0.0105833px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#111111;stroke:none;stroke-width:2;stroke-linecap:round;stroke-miterlimit:3.9"
+       x="104.91744"
+       y="34.274117"
+       id="text6-82"><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;fill:#111111;stroke-width:2"
+         x="104.91744"
+         y="34.274117"
+         id="tspan3">Process</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;fill:#111111;stroke-width:2"
+         x="104.92274"
+         y="38.154663"
+         id="tspan6">Data</tspan></text>
+    <rect
+       style="fill:#0870b8;stroke:none;stroke-width:2;stroke-linecap:round;stroke-miterlimit:3.9"
+       id="rect1-3-8"
+       width="20"
+       height="9.999999"
+       x="70"
+       y="29.999998"
+       ry="1.2" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.1;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:start;letter-spacing:0.0105833px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#111111;stroke:none;stroke-width:2;stroke-linecap:round;stroke-miterlimit:3.9"
+       x="79.917442"
+       y="34.274117"
+       id="text6-82-2"><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;fill:#111111;stroke-width:2"
+         x="79.917442"
+         y="34.274117"
+         id="tspan3-4">Process</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;fill:#111111;stroke-width:2"
+         x="79.922737"
+         y="38.154663"
+         id="tspan6-5">Data</tspan></text>
+    <rect
+       style="fill:#0870b8;stroke:none;stroke-width:2;stroke-linecap:round;stroke-miterlimit:3.9"
+       id="rect1-3-8-1"
+       width="20"
+       height="9.999999"
+       x="120"
+       y="29.999998"
+       ry="1.2" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.1;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:start;letter-spacing:0.0105833px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#111111;stroke:none;stroke-width:2;stroke-linecap:round;stroke-miterlimit:3.9"
+       x="129.91743"
+       y="34.274117"
+       id="text6-82-2-5"><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;fill:#111111;stroke-width:2"
+         x="129.91743"
+         y="34.274117"
+         id="tspan3-4-2">Process</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;fill:#111111;stroke-width:2"
+         x="129.92273"
+         y="38.154663"
+         id="tspan6-5-7">Data</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.1;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:start;letter-spacing:0.0105833px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#111111;stroke:none;stroke-width:2;stroke-linecap:round;stroke-miterlimit:3.9"
+       x="154.88373"
+       y="34.328377"
+       id="text6-82-5"><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;fill:#111111;stroke-width:2"
+         x="154.88373"
+         y="34.328377"
+         id="tspan5">Write</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;fill:#111111;stroke-width:2"
+         x="154.88902"
+         y="38.208923"
+         id="tspan4">Result</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.1;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:start;letter-spacing:0.0105833px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#606060;stroke:none;stroke-width:2;stroke-linecap:round;stroke-miterlimit:3.9"
+       x="178"
+       y="49.999996"
+       id="text6-82-5-3-4-8"><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:2"
+         x="178"
+         y="49.999996"
+         id="tspan4-5-7-2-1-5" /></text>
+  </g>
+</svg>

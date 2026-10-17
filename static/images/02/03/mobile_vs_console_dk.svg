@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="680"
+   height="263"
+   viewBox="0 0 179.91667 69.585417"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="mobile_vs_console_dk.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <style
+     id="style10">.graph_plot_area {   }
+.graph_line1 {   }
+.graph_axis {   }
+.graph_axis_labels {   }
+</style>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="16.519978"
+     inkscape:cx="516.46558"
+     inkscape:cy="216.88891"
+     inkscape:window-width="2794"
+     inkscape:window-height="1533"
+     inkscape:window-x="923"
+     inkscape:window-y="878"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="-15"
+       originy="-9.9710684"
+       spacingx="0.99999998"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14902"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="DartArrow"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Dart arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         transform="scale(-0.5)"
+         id="path6" />
+    </marker>
+    <linearGradient
+       x1="638.5"
+       y1="197"
+       x2="638.5"
+       y2="536"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect"
+       id="stroke0">
+      <stop
+         offset="0"
+         stop-color="#95D600"
+         id="stop1" />
+      <stop
+         offset="0.56"
+         stop-color="#95D600"
+         id="stop2" />
+      <stop
+         offset="0.91"
+         stop-color="#FFC700"
+         id="stop3" />
+      <stop
+         offset="1"
+         stop-color="#FF6B00"
+         id="stop4" />
+    </linearGradient>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips1_2"
+       preserveAspectRatio="xMidYMid"
+       id="pattern16"
+       patternTransform="matrix(0.1767767,0.1767767,-0.1767767,0.1767767,7.9828291e-6,23.846748)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       patternUnits="userSpaceOnUse"
+       width="3"
+       height="1"
+       patternTransform="translate(0,0) scale(2,2)"
+       preserveAspectRatio="xMidYMid"
+       id="Strips1_2"
+       style="fill:#9e4c8a"
+       inkscape:stockid="Stripes 03 (1:2)"
+       inkscape:isstock="true"
+       inkscape:label="Stripes 03 (1:2)">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="-0.5"
+         width="1"
+         height="2"
+         id="rect146" />
+    </pattern>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-15,-9.9710685)">
+    <path
+       id="rect2"
+       style="fill:#202028;stroke-width:0.495522;stroke-linecap:round;marker-start:url(#DartArrow)"
+       class="graph_plot_area"
+       d="M 24.729877,17.798915 H 184.90926 V 67.979689 H 24.729877 Z" />
+    <g
+       id="path2"
+       style="opacity:1;fill:#606060"
+       class="graph_axis"
+       transform="translate(0,-2.1166667)">
+      <path
+         style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#606060;stroke-linecap:round;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
+         d="M 24.888672,19.626953 A 0.24759699,0.24759699 0 0 0 24.640625,19.875 V 70.248047 H 185.0332 A 0.24759699,0.24759699 0 0 0 185.28125,70 0.24759699,0.24759699 0 0 0 185.0332,69.751953 H 25.136719 V 19.875 a 0.24759699,0.24759699 0 0 0 -0.248047,-0.248047 z"
+         id="path8" />
+      <g
+         id="g2"
+         style="fill:#606060">
+        <path
+           d="m 23.502413,20.568115 1.386543,-3.812994 1.386543,3.812994 c -0.807661,-0.693272 -1.961958,-0.693272 -2.773086,0 z"
+           style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#606060;fill-rule:evenodd;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
+           id="path5" />
+        <path
+           d="M 184.34068,68.613457 188.15367,70 l -3.81299,1.386543 c 0.69327,-0.807661 0.69327,-1.961958 0,-2.773086 z"
+           style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#606060;fill-rule:evenodd;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
+           id="path7" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;letter-spacing:0.0105833px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#9e4c8a;stroke:#00847a;stroke-width:0.750001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       x="164.9621"
+       y="40.604492"
+       id="text11-82"><tspan
+         sodipodi:role="line"
+         id="tspan10-4"
+         style="font-size:3.52778px;text-align:start;text-anchor:start;fill:#00847a;stroke:none;stroke-width:0.75"
+         x="164.9621"
+         y="40.604492">Arithmetic</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;letter-spacing:0.0105833px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#00847a;stroke:#00847a;stroke-width:0.750001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       x="164.67616"
+       y="47.257217"
+       id="text11-82-1"><tspan
+         sodipodi:role="line"
+         id="tspan10-4-1"
+         style="font-size:3.52778px;text-align:start;text-anchor:start;fill:#c45ca8;stroke:none;stroke-width:0.75"
+         x="164.67616"
+         y="47.257217">Bandwidth</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;letter-spacing:0.0105833px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#b07c20;stroke:#00847a;stroke-width:0.750001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       x="-43.005287"
+       y="22"
+       id="text11-8"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan10-2"
+         style="font-size:3.52778px;fill:#707080;stroke:none;stroke-width:0.75"
+         x="-42.999996"
+         y="22">Relative performance</tspan></text>
+    <rect
+       x="35"
+       y="64.999992"
+       width="10"
+       height="2.7424691"
+       fill="#95d600"
+       id="rect1"
+       style="fill:#00847a;stroke-width:0.126419" />
+    <rect
+       x="135"
+       y="24.918596"
+       width="10"
+       height="42.719002"
+       fill="#95d600"
+       id="rect2-0"
+       style="fill:#00847a;stroke-width:0.126418" />
+    <rect
+       x="85"
+       y="42.692856"
+       width="10"
+       height="24.998661"
+       fill="#95d600"
+       id="rect3"
+       style="fill:#00847a;stroke-width:0.125472" />
+    <rect
+       x="50"
+       y="64.999992"
+       width="10"
+       height="2.7424691"
+       fill="#ff6b00"
+       id="rect4"
+       style="fill:#9e4c8a;stroke-width:0.126419" />
+    <rect
+       x="100"
+       y="55.405685"
+       width="10"
+       height="12.235631"
+       fill="#ff6b00"
+       id="rect5"
+       style="fill:#9e4c8a;stroke-width:0.125472" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;letter-spacing:0.0105833px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#b07c20;stroke:#00847a;stroke-width:0.750001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       x="147.50179"
+       y="72.717148"
+       id="text11"><tspan
+         sodipodi:role="line"
+         id="tspan10"
+         style="font-size:3.52778px;fill:#707080;stroke:none;stroke-width:0.75"
+         x="147.50179"
+         y="72.717148">Immortalis-G925</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;fill:#707080;stroke:none;stroke-width:0.75"
+         x="147.50708"
+         y="77.126869"
+         id="tspan1">MP12 at 1GHz</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;letter-spacing:0.0105833px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#b07c20;stroke:#00847a;stroke-width:0.750001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       x="98.421829"
+       y="72.717148"
+       id="text11-2"><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;fill:#707080;stroke:none;stroke-width:0.75"
+         x="98.421829"
+         y="72.717148"
+         id="tspan1-5">Game console</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;fill:#707080;stroke:none;stroke-width:0.75"
+         x="98.427124"
+         y="77.126869"
+         id="tspan2">2013</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;letter-spacing:0.0105833px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#b07c20;stroke:#00847a;stroke-width:0.750001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       x="47.305218"
+       y="72.717148"
+       id="text11-2-5"><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;fill:#707080;stroke:none;stroke-width:0.75"
+         x="47.305218"
+         y="72.717148"
+         id="tspan1-5-2">Game console</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;fill:#707080;stroke:none;stroke-width:0.75"
+         x="47.310509"
+         y="77.126869"
+         id="tspan2-7">2005</tspan></text>
+    <rect
+       x="150"
+       y="61.562553"
+       width="10"
+       height="6.0903511"
+       fill="#ff6b00"
+       id="rect6-8"
+       style="fill:#9e4c8a;stroke-width:0.200301" />
+    <rect
+       x="150.48749"
+       y="62"
+       width="9.0250149"
+       height="3"
+       fill="#ff6b00"
+       id="rect6-3"
+       style="fill:#202028;fill-opacity:1;stroke-width:0.133552" />
+    <path
+       id="rect6-3-3"
+       style="fill:url(#pattern16);stroke-width:0.133552"
+       d="m 150.48751,62 h 9.02501 v 3 h -9.02501 z" />
+  </g>
+</svg>

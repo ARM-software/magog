@@ -1,0 +1,446 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="680"
+   height="372"
+   viewBox="0 0 179.91667 98.425004"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="raster_api_lt.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <style
+     id="style10">.graph_plot_area {   }
+.graph_line1 {   }
+.graph_axis {   }
+.graph_axis_labels {   }
+</style>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="1"
+     inkscape:cx="272.49999"
+     inkscape:cy="263.99999"
+     inkscape:window-width="2020"
+     inkscape:window-height="1401"
+     inkscape:window-x="200"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g14"
+     showguides="true">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="-15"
+       originy="-9.9710684"
+       spacingx="0.99999998"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14902"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+    <sodipodi:guide
+       position="15,24.454402"
+       orientation="1,0"
+       id="guide10"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="30,6.4544025"
+       orientation="0,-1"
+       id="guide11"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="0.6"
+       markerHeight="0.45"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7" />
+    </marker>
+    <radialGradient
+       cx="0"
+       cy="0"
+       r="4949931"
+       fy="-7.01827e-11"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="pad"
+       id="fill0"
+       gradientTransform="matrix(1.04987e-4,0,0,1.04987e-4,423,236.45152)">
+      <stop
+         offset="0"
+         stop-color="#A03900"
+         id="stop1"
+         style="stop-color:#b85c03;stop-opacity:1;" />
+      <stop
+         offset="0.5"
+         stop-color="#E65600"
+         id="stop2"
+         style="stop-color:#e67100;stop-opacity:1;" />
+      <stop
+         offset="1"
+         stop-color="#FF6800"
+         id="stop3"
+         style="stop-color:#ff8800;stop-opacity:1;" />
+    </radialGradient>
+    <clipPath
+       id="clip1">
+      <path
+         d="m 422.608,292.474 v 55.796 l 68.142,-12.401 -2,-43.395 z M 569.426,227.715 606.87,506.818 327.767,544.261 290.323,265.159 Z"
+         fill-rule="evenodd"
+         clip-rule="evenodd"
+         id="path3" />
+    </clipPath>
+    <clipPath
+       id="clip2">
+      <path
+         d="M 569.426,227.715 606.87,506.818 327.767,544.261 290.323,265.159 Z"
+         fill-rule="evenodd"
+         clip-rule="evenodd"
+         id="path4" />
+    </clipPath>
+    <clipPath
+       id="clip3">
+      <path
+         d="M 569.426,227.715 606.87,506.818 327.767,544.261 290.323,265.159 Z"
+         fill-rule="evenodd"
+         clip-rule="evenodd"
+         id="path5" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-15,-9.9710685)">
+    <g
+       transform="matrix(0.17244777,0,0,0.17244777,-8.5910217,-24.563637)"
+       id="g14">
+      <rect
+         style="opacity:1;fill:#d8d8d8;stroke:#6a6a6a;stroke-width:2.46464;stroke-linecap:round"
+         id="rect10"
+         width="208.72585"
+         height="156.45711"
+         x="252.81113"
+         y="554.15985"
+         ry="4.4702034" />
+      <rect
+         style="fill:#009f93;fill-opacity:1;stroke:none;stroke-width:2.03548;stroke-linecap:round;stroke-linejoin:round"
+         id="rect2-1"
+         width="173.96571"
+         height="46.390858"
+         x="252.77806"
+         y="229.42387"
+         ry="6.9586296" />
+      <text
+         xml:space="preserve"
+         style="font-size:18.4114px;line-height:1.1;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;letter-spacing:0.0613712px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.34915;stroke-linecap:round;stroke-linejoin:round"
+         x="339.76096"
+         y="248.35474"
+         id="text2"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.4114px;line-height:1.1;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Bold';fill:#ffffff;stroke-width:4.34914"
+           x="339.76096"
+           y="248.35474"
+           id="tspan1">Vertex</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.4114px;line-height:1.1;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Bold';fill:#ffffff;stroke-width:4.34914"
+           x="339.79166"
+           y="268.60727"
+           id="tspan3">shading</tspan></text>
+      <rect
+         style="fill:#009f93;fill-opacity:1;stroke:none;stroke-width:1.66195;stroke-linecap:round;stroke-linejoin:round"
+         id="rect2-1-3"
+         width="185.56343"
+         height="28.994278"
+         x="264.37582"
+         y="588.953"
+         ry="4.3491421" />
+      <text
+         xml:space="preserve"
+         style="font-size:16.3657px;line-height:1.1;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;letter-spacing:0.0613712px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.34915;stroke-linecap:round;stroke-linejoin:round"
+         x="356.72202"
+         y="608.12799"
+         id="text2-4"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.3657px;line-height:1.1;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#ffffff;stroke-width:4.34914"
+           x="356.75269"
+           y="608.12799"
+           id="tspan8">Programmable stage</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:16.3657px;line-height:1.1;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;letter-spacing:0.0613712px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.34915;stroke-linecap:round;stroke-linejoin:round"
+         x="357.03369"
+         y="575.43872"
+         id="text2-4-0"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.3657px;line-height:1.1;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Bold';fill:#606060;stroke-width:4.34914"
+           x="357.06436"
+           y="575.43872"
+           id="tspan8-6">Legend</tspan></text>
+      <rect
+         style="fill:#2f7faf;fill-opacity:1;stroke:none;stroke-width:1.66195;stroke-linecap:round;stroke-linejoin:round"
+         id="rect2-1-3-8"
+         width="185.56343"
+         height="28.99428"
+         x="264.37582"
+         y="629.54498"
+         ry="4.3491426" />
+      <text
+         xml:space="preserve"
+         style="font-size:16.3657px;line-height:1.1;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;letter-spacing:0.0613712px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.34915;stroke-linecap:round;stroke-linejoin:round"
+         x="356.72202"
+         y="648.81586"
+         id="text2-4-4"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.3657px;line-height:1.1;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#ffffff;stroke-width:4.34914"
+           x="356.75272"
+           y="648.81586"
+           id="tspan9">Fixed-function stage</tspan></text>
+      <rect
+         style="fill:#d58d30;fill-opacity:1;stroke:none;stroke-width:1.66196;stroke-linecap:round;stroke-linejoin:round"
+         id="rect2-1-3-8-2"
+         width="185.56343"
+         height="28.994286"
+         x="264.37582"
+         y="670.13702"
+         ry="4.3491435" />
+      <text
+         xml:space="preserve"
+         style="font-size:16.3657px;line-height:1.1;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;letter-spacing:0.0613712px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.34915;stroke-linecap:round;stroke-linejoin:round"
+         x="356.72202"
+         y="688.98438"
+         id="text2-4-4-9"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.3657px;line-height:1.1;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#ffffff;stroke-width:4.34914"
+           x="356.75269"
+           y="688.98438"
+           id="tspan9-3">Data storage</tspan></text>
+      <rect
+         style="fill:#009f93;fill-opacity:1;stroke:none;stroke-width:2.03547;stroke-linecap:round;stroke-linejoin:round"
+         id="rect2-1-4"
+         width="173.96571"
+         height="46.390858"
+         x="774.67523"
+         y="577.35535"
+         ry="6.9586291" />
+      <text
+         xml:space="preserve"
+         style="font-size:18.4114px;line-height:1.1;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;letter-spacing:0.0613712px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.34915;stroke-linecap:round;stroke-linejoin:round"
+         x="861.15387"
+         y="595.79315"
+         id="text2-27"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.4114px;line-height:1.1;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Bold';fill:#ffffff;stroke-width:4.34914"
+           x="861.15387"
+           y="595.79315"
+           id="tspan1-7">Fragment</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.4114px;line-height:1.1;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Bold';fill:#ffffff;stroke-width:4.34914"
+           x="861.18457"
+           y="616.04572"
+           id="tspan3-9">shading</tspan></text>
+      <rect
+         style="fill:#009f93;fill-opacity:1;stroke:none;stroke-width:2.03548;stroke-linecap:round;stroke-linejoin:round"
+         id="rect2-1-1"
+         width="173.96571"
+         height="46.390858"
+         x="426.7438"
+         y="345.401"
+         ry="6.9586291" />
+      <path
+         id="rect2-1-1-6"
+         style="fill:#2f7faf;stroke-width:2.03548;stroke-linecap:round;stroke-linejoin:round"
+         d="m 565.91636,345.40101 h 27.83452 c 3.85508,0 6.95863,3.10355 6.95863,6.95863 v 32.4736 c 0,3.85508 -3.10355,6.95863 -6.95863,6.95863 h -4.63909 z"
+         sodipodi:nodetypes="csssscc" />
+      <text
+         xml:space="preserve"
+         style="font-size:18.4114px;line-height:1.1;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;letter-spacing:0.0613712px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.34915;stroke-linecap:round;stroke-linejoin:round"
+         x="513.72662"
+         y="364.65677"
+         id="text2-5"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.4114px;line-height:1.1;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Bold';fill:#ffffff;stroke-width:4.34914"
+           x="513.72662"
+           y="364.65677"
+           id="tspan1-2">Tesselation</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.4114px;line-height:1.1;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Bold';fill:#ffffff;stroke-width:4.34914"
+           x="513.75732"
+           y="384.9093"
+           id="tspan3-7">shading</tspan></text>
+      <rect
+         style="fill:#009f93;fill-opacity:1;stroke:none;stroke-width:2.03547;stroke-linecap:round;stroke-linejoin:round"
+         id="rect2-1-1-3"
+         width="173.96571"
+         height="46.390858"
+         x="513.72662"
+         y="403.38956"
+         ry="6.9586291" />
+      <text
+         xml:space="preserve"
+         style="font-size:18.4114px;line-height:1.1;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;letter-spacing:0.0613712px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.34915;stroke-linecap:round;stroke-linejoin:round"
+         x="600.70947"
+         y="422.38461"
+         id="text2-5-2"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.4114px;line-height:1.1;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Bold';fill:#ffffff;stroke-width:4.34914"
+           x="600.70947"
+           y="422.38461"
+           id="tspan1-2-2">Geometry</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.4114px;line-height:1.1;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Bold';fill:#ffffff;stroke-width:4.34914"
+           x="600.74017"
+           y="442.63715"
+           id="tspan3-7-1">shading</tspan></text>
+      <rect
+         style="fill:#2f7faf;fill-opacity:1;stroke:none;stroke-width:2.03547;stroke-linecap:round;stroke-linejoin:round"
+         id="rect2-1-8"
+         width="173.96571"
+         height="46.390858"
+         x="339.76096"
+         y="287.41241"
+         ry="6.9586287" />
+      <text
+         xml:space="preserve"
+         style="font-size:18.4114px;line-height:1.1;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;letter-spacing:0.0613712px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.34915;stroke-linecap:round;stroke-linejoin:round"
+         x="426.46063"
+         y="306.64569"
+         id="text2-2"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.4114px;line-height:1.1;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Bold';fill:#ffffff;stroke-width:4.34914"
+           x="426.46063"
+           y="306.64569"
+           id="tspan3-5">Primitive</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.4114px;line-height:1.1;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Bold';fill:#ffffff;stroke-width:4.34914"
+           x="426.49133"
+           y="326.89822"
+           id="tspan4">assembly</tspan></text>
+      <rect
+         style="fill:#2f7faf;fill-opacity:1;stroke:none;stroke-width:2.03547;stroke-linecap:round;stroke-linejoin:round"
+         id="rect2-1-8-7"
+         width="173.96571"
+         height="46.390858"
+         x="600.70953"
+         y="461.37814"
+         ry="6.9586291" />
+      <text
+         xml:space="preserve"
+         style="font-size:18.4114px;line-height:1.1;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;letter-spacing:0.0613712px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.34915;stroke-linecap:round;stroke-linejoin:round"
+         x="687.48114"
+         y="491.25308"
+         id="text2-2-9"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.4114px;line-height:1.1;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Bold';fill:#ffffff;stroke-width:4.34914"
+           x="687.51184"
+           y="491.25308"
+           id="tspan4-4">Rasterization</tspan></text>
+      <rect
+         style="fill:#2f7faf;fill-opacity:1;stroke:none;stroke-width:2.03547;stroke-linecap:round;stroke-linejoin:round"
+         id="rect2-1-8-7-3"
+         width="173.96571"
+         height="46.390858"
+         x="687.69238"
+         y="519.36676"
+         ry="6.9586291" />
+      <text
+         xml:space="preserve"
+         style="font-size:18.4114px;line-height:1.1;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;letter-spacing:0.0613712px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.34915;stroke-linecap:round;stroke-linejoin:round"
+         x="774.17102"
+         y="538.77521"
+         id="text2-2-9-4"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.4114px;line-height:1.1;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Bold';fill:#ffffff;stroke-width:4.34914"
+           x="774.17102"
+           y="538.77521"
+           id="tspan4-4-1">Early fragment</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.4114px;line-height:1.1;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Bold';fill:#ffffff;stroke-width:4.34914"
+           x="774.20172"
+           y="559.02777"
+           id="tspan5">operations</tspan></text>
+      <rect
+         style="fill:#2f7faf;fill-opacity:1;stroke:none;stroke-width:2.03547;stroke-linecap:round;stroke-linejoin:round"
+         id="rect2-1-8-7-3-6"
+         width="173.96571"
+         height="46.390858"
+         x="861.65808"
+         y="635.34387"
+         ry="6.9586291" />
+      <text
+         xml:space="preserve"
+         style="font-size:18.4114px;line-height:1.1;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;letter-spacing:0.0613712px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.34915;stroke-linecap:round;stroke-linejoin:round"
+         x="948.13672"
+         y="654.3031"
+         id="text2-2-9-4-5"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.4114px;line-height:1.1;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Bold';fill:#ffffff;stroke-width:4.34914"
+           x="948.13672"
+           y="654.3031"
+           id="tspan4-4-1-0">Late fragment</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.4114px;line-height:1.1;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Bold';fill:#ffffff;stroke-width:4.34914"
+           x="948.16742"
+           y="674.55566"
+           id="tspan5-2">operations</tspan></text>
+      <rect
+         style="fill:#d58d30;fill-opacity:1;stroke:none;stroke-width:2.03547;stroke-linecap:round;stroke-linejoin:round"
+         id="rect2-1-8-7-3-6-4"
+         width="173.96571"
+         height="46.390858"
+         x="948.64093"
+         y="693.33246"
+         ry="6.9586291" />
+      <text
+         xml:space="preserve"
+         style="font-size:18.4114px;line-height:1.1;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;letter-spacing:0.0613712px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.34915;stroke-linecap:round;stroke-linejoin:round"
+         x="1034.9496"
+         y="703.08521"
+         id="text2-2-9-4-5-8"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.4114px;line-height:1.1;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Bold';fill:#ffffff;stroke-width:4.34914"
+           x="1034.9496"
+           y="703.08521"
+           id="tspan4-4-1-0-6" /><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.4114px;line-height:1.1;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Bold';fill:#ffffff;stroke-width:4.34914"
+           x="1034.9802"
+           y="723.33777"
+           id="tspan5-2-5">Framebuffer</tspan></text>
+      <path
+         style="opacity:1;fill:#606060;stroke:#6a6a6a;stroke-width:11.5977;stroke-linecap:round;stroke-miterlimit:3.9;stroke-dasharray:none;marker-end:url(#ConcaveTriangle)"
+         d="M 200.58836,252.61929 881.3742,706.67021"
+         id="path11"
+         sodipodi:nodetypes="cc" />
+    </g>
+  </g>
+</svg>

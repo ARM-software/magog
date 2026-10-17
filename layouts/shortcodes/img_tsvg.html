@@ -1,0 +1,5 @@
+<figure class="mgfig">
+  <img class="lt" srcset="{{ .Site.BaseURL }}images/{{ print (index .Params 0) }}" alt="{{ print (index .Params 3) }}"/>
+  <img class="dk" srcset="{{ .Site.BaseURL }}images/{{ print (index .Params 1) }}" alt="{{ print (index .Params 3) }}"/>
+  <figcaption><b>Figure {{ print (index .Params 2) }}:</b> {{ print (index .Params 3) }}</figcaption>
+</figure>

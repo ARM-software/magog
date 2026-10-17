@@ -1,0 +1,71 @@
+- term: Arm FrameBuffer Compression
+  abbr: AFBC
+  definition: "Arm FrameBuffer Compression, a lossless framebuffer compression format supported by Arm GPUs."
+- term: Arm Fixed-Rate Compression
+  abbr: AFRC
+  definition: "Arm Fixed-Rate Compression, a lossy framebuffer compression format supported by Arm GPUs."
+- term: Adaptive Scalable Texture Compression
+  abbr: ASTC
+  definition: "Adaptive Scalable Texture Compression, a flexible lossy compression format that is widely used in mobile devices."
+- term: Bubble
+  definition: "Bubbles are short periods of idle time in a hardware or software pipeline, reducing the performance of the running operation."
+- term: Command Stream Frontend
+  abbr: CSF
+  definition: "Command Stream Frontend, the interface between the Mali driver and the GPU hardware."
+- term: Display Processing Unit
+  abbr: DPU
+  definition: "Display Processing Unit, a real-time processor used to compose the final on-screen image, and then send it to the display."
+- term: Dynamic Voltage and Frequency Scaling
+  abbr: DVFS
+  definition: "Dynamic Voltage and Frequency Scaling, adaptive power management used to adjust device performance to meet the demands of the running workloads."
+- term: Deferred Vertex Shading
+  abbr: DVS
+  definition: "Deferred Vertex Shading, a geometry pipeline optimization introduced in Arm 5th Generation GPUs to reduce intermediate geometry bandwidth between phases of a render pass."
+- term: Floating point operation
+  abbr: FLOP
+  definition: "Floating point operation, a unit of data processing capacity."
+- term: Floating point operations
+  abbr: FLOPs
+  definition: "Floating point operations, a unit of data processing capacity."
+- term: Floating point operations per second
+  abbr: FLOP/s
+  definition: "Floating point operations per second, a unit of data processing throughput."
+- term: Fused Multiply Accumulate
+  abbr: FMA
+  definition: "Fused Multiply Accumulate, a three input arithmetic operation combining a multiply and an add."
+- term: FP16
+  definition: "A 16-bit floating point operation."
+- term: FP32
+  definition: "A 32-bit floating point operation."
+- term: General Purpose GPU
+  abbr: GPGPU
+  definition: "General Purpose GPU, use of a GPU for non-graphical use cases."
+- term: High Dynamic Range
+  abbr: HDR
+  definition: "High Dynamic Range, a color encoding that represents a wider range of light intensities, allowing more realistic highlights and shadows."
+- term: Immediate Mode Renderer
+  abbr: IMR
+  definition: "Immediate Mode Renderer, a GPU rendering pipeline that processes primitives and fragments in application draw-order."
+- term: Low Dynamic Range
+  abbr: LDR
+  definition: "Low Dynamic Range, a color encoding that represents limited range of light intensities that can be displayed on a traditional computer screen."
+- term: Min-spec
+  definition: "The minimum specification device that an application is aiming to support."
+- term: Multi-Sample Anti-Aliasing
+  abbr: MSAA
+  definition: "Multi-Sample Anti-Aliasing, a hardware-accelerated screen-space anti-aliasing technique using multiple sub-samples per pixel."
+- term: Single Instruction Multiple Data
+  abbr: SIMD
+  definition: "Single Instruction Multiple Data, a programming model commonly used in CPUs that uses vector hardware by issuing instructions that operate on vectors of data."
+- term: Single Instruction Multiple Thread
+  abbr: SIMT
+  definition: "Single Instruction Multiple Thread, a programming model commonly used in GPUs that uses vector hardware by issuing scale instructions that operate on scalar data for multiple threads."
+- term: System-Level Cache
+  abbr: SLC
+  definition: "System-Level Cache, a large cache that sits between the DRAM controller and the processors in the system."
+- term: System on a Chip
+  abbr: SoC
+  definition: "System on a Chip, an integrated computer on a single silicon logic die, often tightly coupled with an in-package DRAM die."
+- term: Tile-Based Renderer
+  abbr: TBR
+  definition: "Tile-Based Renderer, a GPU rendering pipeline that processes primitives in application draw-order, but processes fragments as a sequence of screen-space tiles."

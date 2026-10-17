@@ -1,0 +1,74 @@
+# Hugo configuration file
+title: Mobile Application GPU Optimization Guide
+
+# Enable git parsing
+enableGitInfo: true
+
+# Import hextra as module
+module:
+  imports:
+    - path: github.com/imfing/hextra
+
+# Disable optional bits we don't use
+disableKinds:
+  - taxonomy
+  - term
+
+markup:
+  # Allow raw html
+  goldmark:
+    renderer:
+      unsafe: true
+    parser:
+      attribute:
+        block: true
+
+  # Enable hextra syntax highlight
+  highlight:
+    noClasses: false
+
+menu:
+  main:
+    - name: Book
+      pageRef: /docs
+      weight: 1
+    - pageRef: /glossary
+      weight: 2
+    - name: About
+      pageRef: /about
+      weight: 3
+    - name: Search
+      weight: 4
+      params:
+        type: search
+    - name: GitHub
+      weight: 5
+      url: "https://github.com/ARM-software/magog"
+      params:
+        icon: github
+
+params:
+  navbar:
+    displayTitle: false
+    displayLogo: true
+    logo:
+      path: logo.svg
+      dark: logo-dark.svg
+      width: 130
+      height: 55
+
+  # Display the last modification date
+  displayUpdatedDate: true
+  dateFormat: "January 2, 2006"
+
+  page:
+    displayPagination: true  # for docs pages
+
+  footer:
+    displayCopyright: true
+    displayPoweredBy: false
+
+  editURL:
+    enable: false
+
+  externalLinkDecoration: true

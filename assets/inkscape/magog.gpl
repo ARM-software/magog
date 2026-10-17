@@ -1,0 +1,22 @@
+GIMP Palette
+Name: MAGOG Colors
+Columns: 14
+255 255 255  Lt-Background
+216 216 216  Lt-Plot
+ 96  96  96  Lt-Labels
+106 106 106  Lt-Axis
+118  93 184  Lt-Accent1
+ 47 127 175  Lt-Accent2
+  0 159 147  Lt-Accent3
+178 106 152  Lt-Accent4
+213 141  48  Lt-Accent5
+
+ 17  17  17  Dk-Background
+ 32  32  40  Dk-Plot
+112 112 128  Dk-Labels
+ 96  96  96  Dk-Axis
+115  84 197  Dk-Accent1
+  8 112 184  Dk-Accent2
+  0 132 122  Dk-Accent3
+158  76 138  Dk-Accent4
+176 124  32  Dk-Accent5

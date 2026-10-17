@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="680"
+   height="250"
+   viewBox="0 0 179.91667 66.145838"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="thermal_asym_dk.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <style
+     id="style10">.graph_plot_area {   }
+.graph_line1 {   }
+.graph_axis {   }
+.graph_axis_labels {   }
+</style>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="2.0649972"
+     inkscape:cx="302.17959"
+     inkscape:cy="62.954081"
+     inkscape:window-width="2402"
+     inkscape:window-height="1669"
+     inkscape:window-x="197"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="-15"
+       originy="-9.9710684"
+       spacingx="0.99999998"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14902"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="marker2"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="0.75"
+       markerHeight="0.75"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="0.75"
+       markerHeight="0.75"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="DartArrow"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Dart arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         transform="scale(-0.5)"
+         id="path6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="DartArrow-4"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Dart arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         transform="scale(-0.5)"
+         id="path6-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle-8"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="0.75"
+       markerHeight="0.75"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2-4"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="0.75"
+       markerHeight="0.75"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path2-5" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-15,-9.9710685)">
+    <path
+       id="rect2"
+       style="fill:#202028;stroke-width:0.349585;stroke-linecap:round;marker-start:url(#DartArrow)"
+       class="graph_plot_area"
+       d="M 24.976311,17.645835 H 184.99926 V 42.645832 H 24.976311 Z" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;letter-spacing:0.0105833px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#707080;stroke:none;stroke-width:0.564999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="-29.895823"
+       y="22.964157"
+       id="text2"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         style="fill:#707080;stroke:none;stroke-width:0.565"
+         x="-29.890532"
+         y="22.964157">Freq</tspan></text>
+    <path
+       id="rect2-7"
+       style="fill:#202028;stroke-width:0.349585;stroke-linecap:round;marker-start:url(#DartArrow-4)"
+       class="graph_plot_area"
+       d="M 24.976315,47.645833 H 184.99926 V 72.64583 H 24.976315 Z" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;letter-spacing:0.0105833px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#707080;stroke:none;stroke-width:0.564999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="-59.895821"
+       y="22.964161"
+       id="text2-1"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan2-5"
+         style="fill:#707080;stroke:none;stroke-width:0.565"
+         x="-59.89053"
+         y="22.964161">Temp</tspan></text>
+    <path
+       style="fill:#707080;stroke:#b07c20;stroke-width:0.565;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:1.13, 2.26;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 25.000003,22.883332 H 184.61561"
+       id="path3"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#707080;stroke:#b07c20;stroke-width:0.565;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:1.13, 2.26;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 25.000005,52.645831 184.67967,52.613799"
+       id="path3-4"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#00847a;stroke-width:0.750001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 25.24915,35 C 43.864455,25.105534 55.603249,24.21439 184.6192,23.540833"
+       id="path8"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#9e4c8a;stroke-width:0.750001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 25.24915,64.855217 C 43.864455,54.960751 55.603249,54.069607 184.6192,53.39605"
+       id="path8-7"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#606060;stroke-width:0.565;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#ConcaveTriangle);marker-end:url(#marker2)"
+       d="m 25,17.645835 v 24.999996 h 159.99999 v 0"
+       id="path1" />
+    <path
+       style="fill:none;stroke:#606060;stroke-width:0.565;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#ConcaveTriangle-8);marker-end:url(#marker2-4)"
+       d="M 25.000004,47.645833 V 72.645829 H 184.99999 v 0"
+       id="path1-1" />
+  </g>
+</svg>

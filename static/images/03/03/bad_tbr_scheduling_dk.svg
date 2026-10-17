@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="680"
+   height="202"
+   viewBox="0 0 179.91667 53.44584"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="bad_tbr_scheduling_dk.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <style
+     id="style10">.graph_plot_area {   }
+.graph_line1 {   }
+.graph_axis {   }
+.graph_axis_labels {   }
+</style>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="2"
+     inkscape:cx="322"
+     inkscape:cy="-24"
+     inkscape:window-width="2402"
+     inkscape:window-height="1401"
+     inkscape:window-x="377"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="-15"
+       originy="-9.9710684"
+       spacingx="0.99999998"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14902"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="marker2-4"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="0.75"
+       markerHeight="0.75"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path2-5" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-15,-9.9710685)">
+    <rect
+       style="fill:#202028;stroke:none;stroke-width:5.7341;stroke-linecap:round;stroke-miterlimit:3.9"
+       id="rect1-4-3-5"
+       width="137"
+       height="11.999999"
+       x="37"
+       y="44.999996"
+       ry="1.4400001" />
+    <rect
+       style="fill:#202028;stroke:none;stroke-width:5.73273;stroke-linecap:round;stroke-miterlimit:3.9"
+       id="rect1-4"
+       width="136.93437"
+       height="12"
+       x="37"
+       y="14.999999"
+       ry="1.4400002" />
+    <rect
+       style="fill:#202028;stroke:none;stroke-width:5.73273;stroke-linecap:round;stroke-miterlimit:3.9"
+       id="rect1-4-3"
+       width="136.93439"
+       height="12"
+       x="36.999992"
+       y="29.999992"
+       ry="1.4400002" />
+    <path
+       style="opacity:1;fill:#606060;stroke:#606060;stroke-width:0.515621;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2-4)"
+       d="m 37.678995,59.52916 h 61.255379 m 13.000026,0 h 59 v 0"
+       id="path1-1"
+       sodipodi:nodetypes="ccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:1.1;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:start;letter-spacing:0.0105833px;writing-mode:lr-tb;direction:ltr;text-anchor:start;opacity:1;fill:#707080;stroke:#6a6a6a;stroke-width:2;stroke-linecap:round;stroke-miterlimit:3.9"
+       x="105.4092"
+       y="60.685795"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="font-size:3.52778px;text-align:center;text-anchor:middle;fill:#707080;stroke:none;stroke-width:2"
+         x="105.4145"
+         y="60.685795">Time</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:1.1;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:start;letter-spacing:0.0105833px;writing-mode:lr-tb;direction:ltr;text-anchor:start;opacity:1;fill:#707080;stroke:none;stroke-width:2;stroke-linecap:round;stroke-miterlimit:3.9"
+       x="39.631893"
+       y="20.078096"
+       id="text1-8"><tspan
+         sodipodi:role="line"
+         id="tspan1-2"
+         style="font-size:3.52778px;fill:#707080;stroke:none;stroke-width:2"
+         x="39.631893"
+         y="20.078096">Application </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;fill:#707080;stroke:none;stroke-width:2"
+         x="39.631893"
+         y="23.958654"
+         id="tspan2">software</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:1.1;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:start;letter-spacing:0.0105833px;writing-mode:lr-tb;direction:ltr;text-anchor:start;opacity:1;fill:#707080;stroke:none;stroke-width:2;stroke-linecap:round;stroke-miterlimit:3.9"
+       x="39.625801"
+       y="35.087402"
+       id="text1-8-9"><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;fill:#707080;stroke:none;stroke-width:2"
+         x="39.625801"
+         y="35.087402"
+         id="tspan2-4">Vertex </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;fill:#707080;stroke:none;stroke-width:2"
+         x="39.625801"
+         y="38.96796"
+         id="tspan3">processing</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:1.1;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:start;letter-spacing:0.0105833px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#707080;stroke:none;stroke-width:2;stroke-linecap:round;stroke-miterlimit:3.9"
+       x="39.609756"
+       y="50.134174"
+       id="text1-8-9-0"><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;fill:#707080;stroke:none;stroke-width:2"
+         x="39.609756"
+         y="50.134174"
+         id="tspan2-4-2">Fragment</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;fill:#707080;stroke:none;stroke-width:2"
+         x="39.609756"
+         y="54.014732"
+         id="tspan3-4">processing</tspan></text>
+    <rect
+       style="opacity:1;fill:#00847a;stroke:none;stroke-width:2;stroke-linecap:round;stroke-miterlimit:3.9"
+       id="rect1"
+       width="20"
+       height="9.999999"
+       x="64.934372"
+       y="15.999999"
+       ry="1.2" />
+    <rect
+       style="opacity:1;fill:#00847a;stroke:none;stroke-width:2;stroke-linecap:round;stroke-miterlimit:3.9"
+       id="rect1-7"
+       width="20"
+       height="9.999999"
+       x="84.934372"
+       y="30.999996"
+       ry="1.2" />
+    <rect
+       style="opacity:1;fill:#0870b8;stroke:none;stroke-width:2;stroke-linecap:round;stroke-miterlimit:3.9"
+       id="rect1-3"
+       width="20"
+       height="9.999999"
+       x="85.934372"
+       y="15.999999"
+       ry="1.2" />
+    <rect
+       style="opacity:1;fill:#0870b8;stroke:none;stroke-width:2;stroke-linecap:round;stroke-miterlimit:3.9"
+       id="rect1-7-2"
+       width="20"
+       height="9.999999"
+       x="125"
+       y="30.999998"
+       ry="1.2" />
+    <rect
+       style="opacity:1;fill:#7354c5;stroke:none;stroke-width:2;stroke-linecap:round;stroke-miterlimit:3.9"
+       id="rect1-3-7"
+       width="20"
+       height="9.999999"
+       x="106.93436"
+       y="15.999999"
+       ry="1.2" />
+    <path
+       id="rect1-7-2-6"
+       style="opacity:1;fill:#7354c5;stroke:none;stroke-width:2;stroke-linecap:round;stroke-miterlimit:3.9"
+       d="M 166.18974 31.000793 C 165.52494 31.000793 164.98929 31.535919 164.98929 32.200719 L 164.98929 39.800772 C 164.98929 40.465572 165.52494 41.000699 166.18974 41.000699 L 173.86627 41.000699 C 173.91059 40.861862 173.93448 40.713808 173.93448 40.559899 L 173.93448 31.440042 C 173.93448 31.286774 173.91075 31.139129 173.86679 31.000793 L 166.18974 31.000793 z " />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.1;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:start;letter-spacing:0.0105833px;writing-mode:lr-tb;direction:ltr;text-anchor:start;opacity:1;fill:#111111;stroke:none;stroke-width:2;stroke-linecap:round;stroke-miterlimit:3.9"
+       x="75.260918"
+       y="20.344742"
+       id="text6"><tspan
+         sodipodi:role="line"
+         id="tspan6"
+         style="text-align:center;text-anchor:middle;fill:#111111;stroke-width:2"
+         x="75.260918"
+         y="20.344742">Render </tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;fill:#111111;stroke-width:2"
+         x="75.266212"
+         y="24.225288"
+         id="tspan4">Pass 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.1;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:start;letter-spacing:0.0105833px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#111111;stroke:none;stroke-width:2;stroke-linecap:round;stroke-miterlimit:3.9"
+       x="96.260918"
+       y="20.344742"
+       id="text6-82"><tspan
+         sodipodi:role="line"
+         id="tspan6-45"
+         style="text-align:center;text-anchor:middle;fill:#111111;stroke-width:2"
+         x="96.260918"
+         y="20.344742">Render </tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;fill:#111111;stroke-width:2"
+         x="96.266212"
+         y="24.225288"
+         id="tspan4-5">Pass 2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.1;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:start;letter-spacing:0.0105833px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#111111;stroke:none;stroke-width:2;stroke-linecap:round;stroke-miterlimit:3.9"
+       x="117.2609"
+       y="20.34388"
+       id="text6-82-5"><tspan
+         sodipodi:role="line"
+         id="tspan6-45-2"
+         style="text-align:center;text-anchor:middle;fill:#111111;stroke-width:2"
+         x="117.2609"
+         y="20.34388">Render </tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;fill:#111111;stroke-width:2"
+         x="117.2662"
+         y="24.224426"
+         id="tspan4-5-7">Pass 3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.1;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:start;letter-spacing:0.0105833px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#111111;stroke:none;stroke-width:2;stroke-linecap:round;stroke-miterlimit:3.9"
+       x="95.260918"
+       y="35.344742"
+       id="text6-7"><tspan
+         sodipodi:role="line"
+         id="tspan6-6"
+         style="text-align:center;text-anchor:middle;fill:#111111;stroke-width:2"
+         x="95.260918"
+         y="35.344742">Render </tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;fill:#111111;stroke-width:2"
+         x="95.266212"
+         y="39.225288"
+         id="tspan4-1">Pass 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.1;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:start;letter-spacing:0.0105833px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#111111;stroke:none;stroke-width:2;stroke-linecap:round;stroke-miterlimit:3.9"
+       x="135.32654"
+       y="35.344742"
+       id="text6-82-8"><tspan
+         sodipodi:role="line"
+         id="tspan6-45-9"
+         style="text-align:center;text-anchor:middle;fill:#111111;stroke-width:2"
+         x="135.32654"
+         y="35.344742">Render </tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;fill:#111111;stroke-width:2"
+         x="135.33183"
+         y="39.225288"
+         id="tspan4-5-2">Pass 2</tspan></text>
+    <rect
+       style="fill:#00847a;stroke:none;stroke-width:2;stroke-linecap:round;stroke-miterlimit:3.9"
+       id="rect1-7-1"
+       width="20"
+       height="9.999999"
+       x="105"
+       y="45.999996"
+       ry="1.2" />
+    <rect
+       style="fill:#0870b8;stroke:none;stroke-width:2;stroke-linecap:round;stroke-miterlimit:3.9"
+       id="rect1-7-2-1"
+       width="20"
+       height="9.999999"
+       x="144.98383"
+       y="45.999996"
+       ry="1.2" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.1;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:start;letter-spacing:0.0105833px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#111111;stroke:none;stroke-width:2;stroke-linecap:round;stroke-miterlimit:3.9"
+       x="115.32655"
+       y="50.344742"
+       id="text6-7-7"><tspan
+         sodipodi:role="line"
+         id="tspan6-6-4"
+         style="text-align:center;text-anchor:middle;fill:#111111;stroke-width:2"
+         x="115.32655"
+         y="50.344742">Render </tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;fill:#111111;stroke-width:2"
+         x="115.33184"
+         y="54.225288"
+         id="tspan4-1-2">Pass 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.1;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:start;letter-spacing:0.0105833px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#111111;stroke:none;stroke-width:2;stroke-linecap:round;stroke-miterlimit:3.9"
+       x="155.31038"
+       y="50.344742"
+       id="text6-82-8-7"><tspan
+         sodipodi:role="line"
+         id="tspan6-45-9-7"
+         style="text-align:center;text-anchor:middle;fill:#111111;stroke-width:2"
+         x="155.31038"
+         y="50.344742">Render </tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;fill:#111111;stroke-width:2"
+         x="155.31567"
+         y="54.225288"
+         id="tspan4-5-2-9">Pass 2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.1;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:start;letter-spacing:0.0105833px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#606060;stroke:none;stroke-width:2;stroke-linecap:round;stroke-miterlimit:3.9"
+       x="178"
+       y="49.999996"
+       id="text6-82-5-3-4-8"><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:2"
+         x="178"
+         y="49.999996"
+         id="tspan4-5-7-2-1-5" /></text>
+  </g>
+</svg>

@@ -1,0 +1,21 @@
+# Default default behavior to Unix-style
+* text=lf
+
+# Explicitly declare text file types
+*.bat text eol=crlf
+*.c text
+*.cpp text
+*.gpl text
+*.ini text
+*.h text
+*.hpp text
+*.md text
+*.py text
+*.sh text
+*.svg text
+*.txt text
+*.yaml text
+
+*.jpg binary
+*.png binary
+*.webp binary

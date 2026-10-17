@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="680"
+   height="245"
+   viewBox="0 0 179.91667 64.822923"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="device_variation_lt.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <style
+     id="style10">.graph_plot_area {   }
+.graph_line1 {   }
+.graph_axis {   }
+.graph_axis_labels {   }
+</style>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="1.4601735"
+     inkscape:cx="250.65514"
+     inkscape:cy="64.375911"
+     inkscape:window-width="1902"
+     inkscape:window-height="1111"
+     inkscape:window-x="137"
+     inkscape:window-y="67"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="-15"
+       originy="-9.9710684"
+       spacingx="0.99999998"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14902"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="DartArrow"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Dart arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         transform="scale(-0.5)"
+         id="path6" />
+    </marker>
+    <linearGradient
+       x1="638.5"
+       y1="197"
+       x2="638.5"
+       y2="536"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect"
+       id="stroke0">
+      <stop
+         offset="0"
+         stop-color="#95D600"
+         id="stop1" />
+      <stop
+         offset="0.56"
+         stop-color="#95D600"
+         id="stop2" />
+      <stop
+         offset="0.91"
+         stop-color="#FFC700"
+         id="stop3" />
+      <stop
+         offset="1"
+         stop-color="#FF6B00"
+         id="stop4" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-15,-9.9710685)">
+    <path
+       id="rect2"
+       style="fill:#d8d8d8;stroke-width:0.495522;stroke-linecap:round;marker-start:url(#DartArrow)"
+       class="graph_plot_area"
+       d="M 24.729877,17.798915 H 184.90926 V 67.979689 H 24.729877 Z" />
+    <g
+       id="path2"
+       style="opacity:1;fill:#6a6a6a"
+       class="graph_axis"
+       transform="translate(0,-2.1166667)">
+      <path
+         style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#6a6a6a;stroke-linecap:round;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
+         d="M 24.888672,19.626953 A 0.24759699,0.24759699 0 0 0 24.640625,19.875 V 70.248047 H 185.0332 A 0.24759699,0.24759699 0 0 0 185.28125,70 0.24759699,0.24759699 0 0 0 185.0332,69.751953 H 25.136719 V 19.875 a 0.24759699,0.24759699 0 0 0 -0.248047,-0.248047 z"
+         id="path8" />
+      <g
+         id="g2"
+         style="fill:#6a6a6a">
+        <path
+           d="m 23.502413,20.568115 1.386543,-3.812994 1.386543,3.812994 c -0.807661,-0.693272 -1.961958,-0.693272 -2.773086,0 z"
+           style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#6a6a6a;fill-rule:evenodd;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
+           id="path5" />
+        <path
+           d="M 184.34068,68.613457 188.15367,70 l -3.81299,1.386543 c 0.69327,-0.807661 0.69327,-1.961958 0,-2.773086 z"
+           style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#6a6a6a;fill-rule:evenodd;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
+           id="path7" />
+      </g>
+    </g>
+    <g
+       transform="matrix(0.18594257,0,0,0.11573838,-13.845134,-0.19851561)"
+       id="g4"
+       style="stroke-width:5.11249798;stroke-dasharray:none;stroke:#765db8">
+      <path
+         d="M 234.5,534.5 C 304.598,500.487 245.448,512.677 353.371,496.483 461.295,480.288 676.6,480.981 871.215,433.724 956.676,403.72 1029.52,380.378 1042.5,198.5"
+         stroke="url(#stroke0)"
+         stroke-width="3"
+         stroke-linecap="round"
+         stroke-miterlimit="8"
+         fill="none"
+         fill-rule="evenodd"
+         id="path4"
+         style="stroke:#765db8;stroke-width:5.11249798;stroke-dasharray:none" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:3.88056px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;letter-spacing:0.0105833px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#606060;stroke:#009f93;stroke-width:0.750001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       x="103.17064"
+       y="72.838036"
+       id="text11"><tspan
+         sodipodi:role="line"
+         id="tspan10"
+         style="font-size:3.88056px;fill:#606060;stroke:none;stroke-width:0.75"
+         x="103.17593"
+         y="72.838036">Device model</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.88056px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:center;letter-spacing:0.0105833px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#606060;stroke:#009f93;stroke-width:0.750001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       x="-43.005287"
+       y="22"
+       id="text11-8"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan10-2"
+         style="font-size:3.88056px;fill:#606060;stroke:none;stroke-width:0.75"
+         x="-42.999996"
+         y="22">Peak performacne</tspan></text>
+    <rect
+       style="fill:#b26a98;stroke:#6a6a6a;stroke-width:0.750001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       id="rect11"
+       width="20"
+       height="4.9999995"
+       x="30"
+       y="89.999992"
+       ry="1" />
+    <rect
+       style="fill:#e8aa36;stroke:#6a6a6a;stroke-width:0.750001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       id="rect12"
+       width="39.139183"
+       height="10.57104"
+       x="67.547981"
+       y="89.999992"
+       ry="1" />
+    <rect
+       style="fill:#009f93;stroke:#6a6a6a;stroke-width:0.750001;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       id="rect13"
+       width="25"
+       height="7.0393553"
+       x="130"
+       y="92.960632"
+       ry="1" />
+  </g>
+</svg>

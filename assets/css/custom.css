@@ -1,0 +1,96 @@
+:root {
+  --hx-color-primary-400: light-dark(#275bd2, #2468c0);
+  --hx-color-primary-600: light-dark(#275bd2, #2468c0);
+  --hx-color-primary-700: light-dark(#078eea, #0480ea);
+
+  --mg-graph_axis: light-dark(#078eea, #0563a3);
+  --mg-graph_axis_labels: light-dark(#606060, #707080);
+  --mg-graph_plot_area: light-dark(#d8d8d8, #202028);
+  --mg-graph_line1: light-dark(#704dca, #6648af);
+}
+
+.demo {
+  /* Dark theme gradient: */
+  color: #1a3d8f;
+  color: #0563a3;
+  color: #363da0;
+  color: #5435a4;
+  color: #6648af;
+
+  /* Light theme gradient: */
+  color: #275bd2;
+  color: #078eea;
+  color: #4e5bd4;
+  color: #704dca;
+  color: #8a70c8;
+}
+
+/* Semantic styles for inline SVGs. */
+figure.mgfig:not(.mgrast) {
+  margin: 0px auto;
+}
+
+figure.mgfig.mgrast {
+  margin: 24px auto 0px auto;
+}
+
+figure.mgfig:is(html[class~="dark"] *) .lt {
+  display: none;
+}
+
+figure.mgfig:not(:is(html[class~="dark"] *)) .dk {
+  display: none;
+}
+
+figure.mgfig > figcaption {
+  margin: 0;
+  text-align: start;
+}
+
+.graph_axis, .graph_axis * {
+  fill: var(--mg-graph_axis) !important;
+}
+
+.graph_axis_labels, .graph_axis_labels * {
+  fill: var(--mg-graph_axis_labels) !important;
+}
+
+.graph_plot_area, .graph_plot_area * {
+  fill: var(--mg-graph_plot_area) !important;
+}
+
+.graph_line1, .graph_line1 * {
+  fill: var(--mg-graph_line1) !important;
+}
+
+/* Overrides for hextra default formatting issues. */
+.hextra-footer div:nth-of-type(2) {
+  padding: 0px 0px 25px 25px;
+}
+
+.hextra-footer div:nth-of-type(3) {
+  padding: 0px 0px 25px 25px;
+}
+
+.hextra-custom-footer {
+  display: none;
+}
+
+main.magog-main * .hx\:tracking-tighter {
+    letter-spacing: -0.025em;
+}
+
+main:not(.magog-main) {
+    max-width: calc(var(--hextra-max-page-width) - (var(--hx-spacing) * ((64 * 2) + 4))) !important;
+    padding-inline: calc(var(--hx-spacing) * 4);
+    margin: 0px auto;
+}
+
+.content table {
+    display: table;
+    width: 80%;
+    margin-block: calc(var(--hx-spacing) * 6);
+    margin-left: auto;
+    margin-right: auto;
+}
+
