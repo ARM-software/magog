@@ -6,7 +6,7 @@ type: docs
 
 Mobile devices spend most of their time rendering simple user interfaces and lightweight games, which are proportionally light on geometry and heavy on fragment shading. Early mobile devices also used low-resolution screens, making them ideal targets for Multi-Sample Anti-Aliasing ({{< term "MSAA" >}}). The workloads that mobile GPUs needed to be most efficient at are the natural weaknesses of a classical Immediate Mode Renderer ({{< term "IMR" >}}).
 
-Most mobile GPUs, including all Arm® GPUs, therefore implement a Tile-Based Renderer ({{< term "TBR" >}}). A TBR is designed to increase the energy efficiency of fragment shading by processing framebuffers as a stream of screen-space tiles. These tiles are small enough that the framebuffer working set can be kept in on-chip memory, close to the GPU.
+Most mobile GPUs, including all Arm GPUs, therefore implement a Tile-Based Renderer ({{< term "TBR" >}}). A TBR is designed to increase the energy efficiency of fragment shading by processing framebuffers as a stream of screen-space tiles. These tiles are small enough that the framebuffer working set can be kept in on-chip memory, close to the GPU.
 
 To implement this approach, the GPU needs to know which primitives contribute to which tiles. TBRs implement a binning pass that assigns the primitives in a render pass to tiles before the fragment shading pass can begin. TBR hardware therefore splits the rasterization pipeline into two disjoint phases. The first phase consumes all vertices in a render pass and assigns primitives to tiles, a process commonly called binning. The second phase consumes the primitive binning data, performing fragment shading tile-by-tile, writing the final content of each tile back to memory.
 

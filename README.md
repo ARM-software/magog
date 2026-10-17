@@ -2,6 +2,8 @@
 
 This project is an eBook that teaches developers how to profile and optimize their mobile applications using an Arm GPU, helping them to get the best rendering performance out of an Arm GPU.
 
+The latest version of the book is published on the [project GitHub Pages site ↗](https://arm-software.github.io/magog/).
+
 ## Setup
 
 The eBook is implemented as a documentation website, built using the static site generator, Hugo. To use Hugo you will need to install Go and Hugo, and add

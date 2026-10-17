@@ -10,7 +10,7 @@ Difficulties arise when you have no intuition about what your performance should
 
 ## Device planning
 
-Mobile application business models often depend on achieving a sizable user base. This means you must balance the device minimum specification {{< term "min-spec" >}} that you are targeting, and the number of potential users that implies.
+Mobile application business models often depend on achieving a sizable user base. This means you must balance the device minimum specification ({{< term "min-spec" >}}) that you are targeting, and the number of potential users that implies.
 
 Before starting a project, we recommend that you buy some devices that are representative of your min-spec. Prototype the major components of your renderer on them to determine what performance is achievable. You should repeat this for any other devices that you want to target with a higher-quality performance profile.
 
@@ -38,7 +38,7 @@ The cost of an enhanced single render pass is:
 
 The increased target means that the device will need to handle 4.5 times more processing and 9 times more memory bandwidth.
 
-One useful tool that we use with developers is setting approximate resolutions and performance budgets for the different parts of their rendering pipeline. This process can start by assigning a time budget to each phase, aiming to use only 90% of the total available frame period to keep some headroom. The example below shows a breakdown for an application targeting 1080p60.
+One useful tool that we use with developers is setting approximate resolution and performance budgets for the different parts of their rendering pipeline. This process can start by assigning a time budget to each phase, aiming to use only 90% of the total available frame period to keep some headroom. The example below shows a breakdown for an application targeting 1080p60.
 
 | Pass           | Resolution | Budget (ms) |
 | :---           |       ---: |        ---: |

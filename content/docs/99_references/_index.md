@@ -10,7 +10,7 @@ References are linked to directly from the text where needed, but here is a cons
 
 ## Documentation
 
-The following developer tools and open-source projects are useful for developers working with Arm® GPUs:
+The following developer tools and open-source projects are useful for developers working with Arm GPUs:
 
 * [Arm GPU Best Practices][DOC_GBP] - comprehensive Vulkan API best practice guidance for game engine developers.
 * [Arm GPU Counter Documentation][DOC_LGC] - comprehensive performance counter documentation for all currently shipping Arm GPUs.

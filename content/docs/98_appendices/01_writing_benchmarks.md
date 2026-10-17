@@ -37,7 +37,7 @@ It can take a few seconds for DVFS to stabilize on its chosen operating point. W
 
 ### Avoiding optimistic framebuffer compression
 
-Arm® GPUs can use Arm FrameBuffer Compression ({{< term "AFBC" >}}), a lossless image compression format, to compress framebuffers written by a render pass. AFBC is a variable bitrate compression, and will use less bandwidth to store simpler images.
+Arm GPUs can use Arm FrameBuffer Compression ({{< term "AFBC" >}}), a lossless image compression format, to compress framebuffers written by a render pass. AFBC is a variable bitrate compression, and will use less bandwidth to store simpler images.
 
 If your microbenchmark needs representative memory bandwidth or system power, ensure that your output framebuffer images are of similar visual complexity to your real application use case.
 

@@ -70,7 +70,7 @@ Most instruction sets define a serial instruction stream, but there will be case
 
 ### Adding SIMD vector execution
 
-Data processing algorithms often want to operate on vectors of data, performing an identical operation on multiple data items. CPUs frequently support this using Single Instruction Multiple Data ({{< term "SIMD" >}}) vector instructions, such as the Arm® NEON or x86-64 SSE instruction sets. SIMD vectorization is more efficient than performing the equivalent scalar operations because the control overhead of decoding and issuing instructions is amortized over multiple data processing operations.
+Data processing algorithms often want to operate on vectors of data, performing an identical operation on multiple data items. CPUs frequently support this using Single Instruction Multiple Data ({{< term "SIMD" >}}) vector instructions, such as the Arm NEON or x86-64 SSE instruction sets. SIMD vectorization is more efficient than performing the equivalent scalar operations because the control overhead of decoding and issuing instructions is amortized over multiple data processing operations.
 
 Unfortunately SIMD vectorization is also highly situational. Some software may not be able to use SIMD vectorization at all, and some may only be able to partially utilize the available vector width.
 
