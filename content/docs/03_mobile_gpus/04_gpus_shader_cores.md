@@ -156,7 +156,7 @@ Threads in a warp are issued together for arithmetic instruction execution but, 
 
 A new downside introduced by SIMT vectorization is a loss of efficiency if threads in a warp have divergent control flow. The threads in a warp run in lockstep, issuing the same instruction for all threads. If threads within a warp follow different control paths, the GPU will need to mask data lanes on the wrong path. This causes an efficiency loss because it is an effective reduction in the active vector width.
 
-{{< img_tsvg "03/04/simt_divergence_lt.svg" "03/04/simt_divergence_dk.svg" "14" "Divergence in a 4-wide SIMT warp, with three threads taking the if and one thread taking the else" >}}
+{{< img_tsvg "03/04/simt_divergence_lt.svg" "03/04/simt_divergence_dk.svg" "14" "Divergence in a 8-wide SIMT warp, with five threads taking the if and three taking the else" >}}
 
 ## Designing out Amdahl's law
 
