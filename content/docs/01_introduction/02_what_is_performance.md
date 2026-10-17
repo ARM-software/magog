@@ -130,7 +130,7 @@ Design changes and configuration changes can certainly give big improvements, an
 
 ### My experience with astcenc
 
-I took over as maintainer of the Arm® offline {{< term "ASTC" >}} texture compressor, ASTC Encoder (`astcenc`), at the end of 2019. At the time it was slow. Multiple developers complained that it was more than an order of magnitude behind the compressors used for the BC and ETC format families.
+I took over as maintainer of the Arm offline {{< term "ASTC" >}} texture compressor, ASTC Encoder (`astcenc`), at the end of 2019. At the time it was slow. Multiple developers complained that it was more than an order of magnitude behind the compressors used for the BC and ETC format families.
 
 A week or two after taking over the project, one of the directors in the Arm ecosystem team asked me how much faster we could make it. My answer was _"... perhaps two or three times faster."_ I honestly had no idea how we were going to do it. It still wasn't enough to be competitive, but it seemed like a reasonable goal and I could see a route to getting started.
 

@@ -7,7 +7,7 @@ The Mobile Application GPU Optimization Guide is an eBook that helps you optimiz
 
 ## What does MAGOG mean?
 
-The acronym was inspired by the Gog Magog hills, or "the Gogs" to anyone living locally. These are low rolling chalk hills to the south of Cambridge in the UK. The north edge of the Gogs is visible from Pete's office in the Arm® Cambridge campus.
+The acronym was inspired by the Gog Magog hills, or "the Gogs" to anyone living locally. These are low rolling chalk hills to the south of Cambridge in the UK. The north edge of the Gogs is visible from Pete's office in the Arm Cambridge campus.
 
 {{< img_rast "about/thegogs.webp" "1" "The Gogs, as seen from the Arm Cambridge office" >}}
 
@@ -39,7 +39,7 @@ Pete is a Distinguished Engineer in the Arm GPU architecture team.
 
 He has worked in mobile development since before phones were smart, and has worked on Arm® Mali™ GPUs since 2009. He has led GPU performance methodology and software optimization teams, created multiple GPU profiling tools and libraries, and helped many game studios successfully optimize their games.
 
-He is the maintainer for multiple Arm-sponsored open-source projects related to mobile graphics and GPUs:
+He is the maintainer for multiple Arm-sponsored open-source projects related to mobile graphics and GPUs, including this book. Other projects include:
 
 * [astcenc][3] - a widely used compressor for offline {{< term "ASTC" >}} texture compression.
 * [libGPUCounters][1] - a library for Arm GPU performance counter sampling.

@@ -26,7 +26,7 @@ In the middle of this chart, around the knee of the curve, it is a more complex 
 
 Some mid-range devices are purpose-built for this market segment. They use smaller configurations than their contemporary premium siblings, but still benefit from the efficiency gains of the latest CPUs, GPUs, and silicon process. These devices have strong performance, and their modern technology means that they are less susceptible to overheating than other mid-range devices.
 
-Other mid-range devices are older premium devices that are still in use, now several years old and sliding down the performance ranking as newer devices overtake them. When first released, these were premium configurations that pushed performance as high as the technology of the time allowed. They now have lower performance than the latest premium devices. That can make them more susceptible to overheating because modern content can overload them more easily.
+Other mid-range devices are older premium devices that are still in use, now several years old and sliding down the performance ranking as newer devices overtake them. When first released, these were premium configurations that pushed performance as high as the technology of the time allowed. The combination of older hardware that pushes its limits, and newer content that can more easily reach those limits, makes these devices very susceptible to overheating issues.
 
 ## Managing variation
 
