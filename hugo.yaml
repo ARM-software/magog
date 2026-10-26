@@ -1,5 +1,6 @@
 # Hugo configuration file
 title: Mobile Application GPU Optimization Guide
+baseURL: https://arm-software.github.io/magog/
 
 # Enable git parsing
 enableGitInfo: true
@@ -70,5 +71,11 @@ params:
 
   editURL:
     enable: false
+
+  # Open Graph description and thumbnail for social shares
+  description: "Learn how to profile and optimize application graphics and compute workloads for mobile GPUs."
+
+  images:
+    - "opengraph.jpg"
 
   externalLinkDecoration: true
