@@ -1,0 +1,7 @@
+{{- $id := .Get "id" -}}
+{{- $text := .Get "text" -}}
+{{- with index site.Data.links $id -}}
+<a href="{{ .url }}">{{ $text | default .label }}</a>
+{{- else -}}
+{{- errorf "Unknown shared link %q at %s" $id $.Position -}}
+{{- end -}}

@@ -10,7 +10,7 @@ Mobile devices are compact, battery-powered systems that rely on passive cooling
 
 ## Mobile device form factor
 
-<!-- TODO: This would benefit from mobile vs PC image and/ot comparison table -->
+<!-- TODO: This would benefit from mobile vs PC image and/or comparison table -->
 
 Mobile systems are built for energy efficiency, designed to give high performance without excessive battery drain or overheating. Despite this focus on efficiency, a high-end device can generate more heat than it can dissipate under a sustained heavy workload. Every watt of power needed to drive the electronics will be turned into heat that needs to be dissipated. An application can make heavy use of the CPU, GPU, or memory bandwidth, but cannot usually sustain heavy simultaneous use of all of them for long periods.
 

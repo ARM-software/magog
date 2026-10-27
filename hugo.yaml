@@ -72,6 +72,9 @@ params:
   editURL:
     enable: false
 
+  imageZoom:
+    enable: true
+
   # Open Graph description and thumbnail for social shares
   description: "Learn how to profile and optimize application graphics and compute workloads for mobile GPUs."
 
