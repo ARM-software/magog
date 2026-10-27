@@ -94,3 +94,12 @@ main:not(.magog-main) {
     margin-right: auto;
 }
 
+/* Disable hover highlight on the home screen cards, as they are not links. */
+main.magog-main .hextra-feature-card:not([href]):hover {
+    border-color: var(--hx-color-gray-200);
+}
+
+html.dark main.magog-main .hextra-feature-card:not([href]):hover {
+    border-color: var(--hx-color-neutral-800);
+}
+

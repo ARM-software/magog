@@ -1,0 +1,15 @@
+arm_gpu_best_practices:
+  label: Arm GPU Best Practices
+  url: https://developer.arm.com/documentation/101897/latest/
+
+streamline:
+  label: Streamline
+  url: https://developer.arm.com/tools-and-software/streamline-performance-analyzer
+
+frame_advisor:
+  label: Frame Advisor
+  url: https://developer.arm.com/tools-and-software/frame-advisor
+
+mali_offline_compiler:
+  label: Mali Offline Compiler
+  url: https://developer.arm.com/tools-and-software/mali-offline-compiler

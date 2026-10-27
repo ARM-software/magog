@@ -1,12 +1,14 @@
 # Default default behavior to Unix-style
-* text=lf
+* text=auto eol=lf
 
-# Explicitly declare text file types
+# Explicitly declare commonly used text and binary file types
 *.bat text eol=crlf
 *.c text
 *.cpp text
+*.css text
 *.gpl text
 *.ini text
+*.java text
 *.h text
 *.hpp text
 *.md text

@@ -1,4 +1,12 @@
+{{- $enableImageZoom := .Page.Site.Params.imageZoom.enable | default false -}}
+{{- if not (eq .Page.Params.imageZoom nil) -}}
+  {{- $enableImageZoom = .Page.Params.imageZoom -}}
+{{- end -}}
+{{- if $enableImageZoom -}}
+  {{- .Page.Store.Set "hasImageZoom" true -}}
+{{- end -}}
+
 <figure class="mgfig mgrast">
-<img src="{{ .Site.BaseURL }}images/{{ print (index .Params 0) }}" alt="{{ print (index .Params 2) }}" />
+<img src="{{ .Site.BaseURL }}images/{{ print (index .Params 0) }}" alt="{{ print (index .Params 2) }}"{{ if $enableImageZoom }} data-zoomable{{ end }} />
 <figcaption><b>Figure {{ print (index .Params 1) }}:</b> {{ print (index .Params 2) }}</figcaption>
 </figure>
